@@ -1,11 +1,11 @@
 function dxdt = HBDV(t, x) % harmonically base excitation damped vibration = HBDV
     
-    % Define the two parameter damping ratio, and natural frequency
-    m = 2000 ; % kg
-    k = 12.337 * 10^6 ; % N/m
-    c = 15707.96 ; % N-s/m
-    y = 0.2 ; % m
-    w = 157.08 ; % rad/s
+    % Define the two parameters, damping ratio, and natural frequency
+    m =  ; % kg
+    k =  ; % N/m
+    c =  ; % N-s/m
+    y =  ; % m
+    w =  ; % rad/s
 
     % middle parameter
     T = c*w ;
